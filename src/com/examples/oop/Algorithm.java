@@ -11,14 +11,14 @@ public class Algorithm {
             return x * factorial(x - 1);
         }
     }
-    public static int fibonachi(int x) {
+    public static int fibonacci(int x) {
         if (x == 0) {
             return 1;
         }
         if (x == 1) {
             return 1;
         } else {
-            return fibonachi(x - 1) + fibonachi(x - 2);
+            return fibonacci(x - 1) + fibonacci(x - 2);
         }
     }
 

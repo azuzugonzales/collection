@@ -2,9 +2,6 @@ package com.examples.oop;
 
 import org.testng.annotations.Test;
 
-/**
- * Created by User1 on 24.11.2015.
- */
 public class AlgorithmTest {
 
     @Test

@@ -1,4 +1,4 @@
-package com.examples.array;
+package com.examples.sort;
 
 import java.lang.String;import java.lang.System;import java.util.Arrays;
 
