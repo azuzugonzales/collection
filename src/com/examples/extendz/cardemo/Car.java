@@ -1,0 +1,43 @@
+package com.examples.extendz.cardemo;
+
+public class Car {
+    private String brand;
+    private int gear;
+    private int wheel;
+    private int numberOfSeat;
+
+    public Car() {
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
+
+    public int getGear() {
+        return gear;
+    }
+
+    public void setGear(int gear) {
+        this.gear = gear;
+    }
+
+    public int getWheel() {
+        return wheel;
+    }
+
+    public void setWheel(int wheel) {
+        this.wheel = wheel;
+    }
+
+    public int getNumberOfSeat() {
+        return numberOfSeat;
+    }
+
+    public void setNumberOfSeat(int numberOfSeat) {
+        this.numberOfSeat = numberOfSeat;
+    }
+}

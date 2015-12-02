@@ -11,7 +11,7 @@ public class Runner {
         if (complete) {
             System.out.println("Summ: " + action.getTransactionAmount() + "it has been successful!");
             System.out.println("On the client's account ID = " + to.getId());
-            System.out.println(" it adds up: " + to.getAmount());
+            System.out.println("it adds up: " + to.getAmount());
         } else {
             System.out.println("The transaction is not executed.");
             System.out.println("On the client's account ID = " + from.getId());
