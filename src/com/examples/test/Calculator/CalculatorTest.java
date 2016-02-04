@@ -1,3 +1,4 @@
+/*
 package com.examples.test.calculator;
 
 import org.testng.annotations.Test;
@@ -11,4 +12,4 @@ public class CalculatorTest {
         int result = calculator1.getResult();
         System.out.println(result);
     }
-}
+}*/

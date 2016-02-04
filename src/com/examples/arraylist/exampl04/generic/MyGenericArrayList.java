@@ -17,7 +17,7 @@ public class MyGenericArrayList {
         if (size < elements.length) {
             elements[size] = e;
         } else {
-            // allocate a larger array and add the element, omitted
+            // allocate a larger arrayother and add the element, omitted
         }
         ++size;
     }
