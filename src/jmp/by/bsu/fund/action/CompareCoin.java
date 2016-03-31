@@ -1,4 +1,4 @@
-package by.bsu.fund.acrion;
+package by.bsu.fund.action;
 import by.bsu.fund.bean.Coin;
 public class CompareCoin {
 	public void compareDiameter(Coin first, Coin second) {
